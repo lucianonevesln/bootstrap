@@ -24,8 +24,8 @@
 
 ## Imagens:
 
-![alt text](https://github.com/lucianonevesln/bootstrap/blob/main/img/Screenshot_1.png)
+![alt text](https://github.com/lucianonevesln/bootstrap/blob/main/src/img/Screenshot_1.png)
 
-![alt text](https://github.com/lucianonevesln/bootstrap/blob/main/img/Screenshot_2.png)
+![alt text](https://github.com/lucianonevesln/bootstrap/blob/main/src/img/Screenshot_2.png)
 
-![alt text](https://github.com/lucianonevesln/bootstrap/blob/main/img/Screenshot_3.png)
+![alt text](https://github.com/lucianonevesln/bootstrap/blob/main/src/img/Screenshot_3.png)
